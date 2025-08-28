@@ -2,7 +2,6 @@
 
 
 [![Paper](https://img.shields.io/badge/Paper-PDF-red)](link_to_your_paper)  
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ---
 
